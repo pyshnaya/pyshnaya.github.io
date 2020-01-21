@@ -1,0 +1,226 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../font/OpenSans-Regular.eot');
+    src: url('../font/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../font/OpenSans-Regular.woff2') format('woff2'),
+    url('../font/OpenSans-Regular.woff') format('woff'),
+    url('../font/OpenSans-Regular.ttf') format('truetype'),
+    url('../font/OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../font/Raleway-Bold.eot');
+    src: url('../font/Raleway-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../font/Raleway-Bold.woff2') format('woff2'),
+    url('../font/Raleway-Bold.woff') format('woff'),
+    url('../font/Raleway-Bold.ttf') format('truetype'),
+    url('../font/Raleway-Bold.svg#Raleway-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+header{ background-color: #24282f;
+    padding-top: 29px}
+.conteiner{
+    max-width: 1093px;
+    margin: auto;
+}
+.logo{
+    float: left;
+}
+header nav{
+    float: right;
+}
+header nav ul{
+    list-style: none;
+    display: inline-block;
+}
+header nav ul li{
+    display: inline-block;
+    float: right;
+    margin-left: 46px;
+    padding-top: 3px;
+    padding-bottom: 33px;
+}
+.conteiner:after, header nav ul:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+header nav ul li a{
+    color: #ffffff;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    text-decoration: none;
+    padding: 0px 11px;
+}
+
+header nav ul li:after{
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: transparent;
+    width: 100%;
+    position: relative;
+    bottom: -37px;
+
+}
+header nav ul li:hover:after{
+    background-color: #b5a263;
+}
+
+.about_as{
+    background-image: url(../images/test_light_02.png);
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 84px;
+}
+.top_block{
+    max-width: 1076px;
+    margin: auto;
+}
+.title{
+    font-size: 32px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Raleway';
+    margin-bottom: 20px;
+}
+.design_studio{
+    font-size: 11px;
+    color: #ffffff;
+    line-height: 19px;
+    font-family: 'Open Sans';;
+}
+
+.article_title, .article{
+    font-size: 19px;
+    color: #24282f;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+    margin-top: 122px;
+}
+.article_title:after{
+    content: "";
+    display: block;
+    width: 61px;
+    height: 3px;
+    background-color: #b5a263;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 27px;
+}
+.Management{
+    max-width: 890px;
+    margin: auto;
+}
+article{
+    max-width: 246px;
+    display: inline-block;
+}
+
+.soc{
+    background-color: #dedede;
+    width: 28px;
+    display: inline-block;
+    margin-left: 5px;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 28px;
+    float: right;
+}
+.soc i{
+    font-size: 12px;
+    color: white;
+}
+.name{
+    font-size: 13px;
+    font-family: 'Raleway';
+    text-transform: uppercase;
+    color: #232323;
+}
+
+.position{
+    font-size: 11px;
+    font-family: 'Open Sans';
+    color: #b5a263;
+    line-height: 16px;
+    float: left;
+}
+.Marketing_Manager:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.Marketing{
+    float: left;
+    display: inline-block;
+    margin-right: 81px;
+}
+.Creative{
+    float: right;
+    display: inline-block;
+}
+.Management:after{
+    content: "";
+    display: block;
+    clear: both;
+    margin-bottom: 98px;
+}
+.reviews{
+    background-color: #f7f7f7;
+    padding-top: 95px;
+    padding-bottom: 94px;
+}
+.article:after{
+    content: "";
+    display: block;
+    width: 62px;
+    height: 3px;
+    background-color: #24282f;
+    margin: auto;
+    margin-top: 23px;
+    margin-bottom: 49px;
+}
+.layer{
+   display: block;
+   margin: auto;
+}
+.fa-chevron-left{
+    float: left;
+}
+.fa-chevron-right{
+    float: right;
+}
+.comment{
+    font-size: 11px;
+    font-family: 'Open Sans';
+    color: #000000;
+    line-height: 18px;
+    text-align: center;
+    margin-top: 31px;
+    margin-bottom: 36px;
+}
+.general_name{
+    font-size: 13px;
+    font-family: 'Raleway';
+    text-transform: uppercase;
+    color: #b5a263;
+    text-align: center;
+    line-height: 25px;
+}
+.employees{
+    font-size: 11px;
+    font-family: 'Open Sans';
+    color: #000000;
+    text-align: center;
+}
+

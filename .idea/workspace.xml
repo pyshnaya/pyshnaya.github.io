@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7baca30b-4f27-4600-8c79-9a90cfd4e0b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UyCJMgJABl08raJ6jBPneoCpNE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7baca30b-4f27-4600-8c79-9a90cfd4e0b1" name="Default Changelist" comment="" />
+      <created>1576319374840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576319374840</updated>
+      <workItem from="1576319379348" duration="430000" />
+      <workItem from="1576322613003" duration="5366000" />
+      <workItem from="1576523853361" duration="1618000" />
+      <workItem from="1576526116221" duration="219000" />
+      <workItem from="1576526396024" duration="1309000" />
+      <workItem from="1576528187535" duration="645000" />
+      <workItem from="1576530431694" duration="2215000" />
+      <workItem from="1576533905817" duration="103000" />
+      <workItem from="1576534217783" duration="136000" />
+      <workItem from="1576534803659" duration="208000" />
+      <workItem from="1576577330451" duration="107000" />
+      <workItem from="1576602168928" duration="4669000" />
+      <workItem from="1576611423454" duration="16000" />
+      <workItem from="1576611521133" duration="1176000" />
+      <workItem from="1576621653479" duration="1342000" />
+      <workItem from="1576623916245" duration="7060000" />
+      <workItem from="1576799040306" duration="221000" />
+      <workItem from="1576799307156" duration="6687000" />
+      <workItem from="1577448253246" duration="171000" />
+      <workItem from="1579279892515" duration="93000" />
+      <workItem from="1579280325320" duration="109000" />
+      <workItem from="1579285777251" duration="200000" />
+      <workItem from="1579286095741" duration="22000" />
+      <workItem from="1579286147103" duration="217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
